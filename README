@@ -1,0 +1,11 @@
+Org: MDST
+Project: 6
+
+
+Initial Tasks
+-------------
+-Compensate/account for selection bias in residential set
+-Look at groupings of sentinel set and see how it changes the trends
+-Any patterns in homes that dropped out of sentinel set
+-Examine different quantiles 
+-Variance across different tests for the same home
